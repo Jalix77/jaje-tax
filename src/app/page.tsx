@@ -58,8 +58,8 @@ export default function Home() {
       <hr style={{ margin: "40px 0" }} />
 
       <p>
-        📞 <strong>Phone:</strong> (XXX) XXX-XXXX <br />
-        📧 <strong>Email:</strong> info@yourdomain.com
+        📞 <strong>Phone:</strong> (317) 529-4823 <br />
+        📧 <strong>Email:</strong> support@jaje.org
       </p>
 
       <p style={{ marginTop: "40px", fontSize: "12px", color: "gray" }}>
